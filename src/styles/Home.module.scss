@@ -1,0 +1,42 @@
+.container{
+  max-width:480px;
+  margin:0 auto;
+  width:480px;
+}
+.header{
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  justify-content: space-between;
+}
+.header h3{
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24.38px;
+  text-align: center;
+}
+.quoteWrapper{
+  display:flex;
+  gap:2rem;
+  align-items: center;
+  justify-content: space-between;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(25%, auto));
+  width: var(--max-width);
+  max-width: 100%;
+}
+.wrapper{
+  h3{
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 36.57px;
+  }  
+  p{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24.38px;
+    text-align: center;
+  }  
+}

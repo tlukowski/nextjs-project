@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Kariera",
+        "image": "career.webp"
+    },
+    {
+        "id": 2,
+        "name": "Hobby",
+        "image": "hobby.webp"
+    },
+    {
+        "id": 3,
+        "name": "Ekstremalne sytuacje",
+        "image": "extremal.webp"
+    },
+    {
+        "id": 4,
+        "name": "Jedzenie",
+        "image": "food.webp"
+    },
+    {
+        "id": 5,
+        "name": "Poznajmy się",
+        "image": "know.webp"
+    },
+    {
+        "id": 6,
+        "name": "Związki",
+        "image": "relations.webp"
+    }
+]
